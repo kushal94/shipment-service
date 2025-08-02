@@ -1,4 +1,4 @@
-package com.creativegeeks.moveon.shipment_service;
+package com.creativegeeks.moveon.shipmentservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.creativegeeks.moveon.shipment_service;
+package com.creativegeeks.moveon.shipmentservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
